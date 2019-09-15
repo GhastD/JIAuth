@@ -1,0 +1,15 @@
+cc\ghast\auth\managers\ConfigManager.class
+cc\ghast\auth\utils\Chat.class
+cc\ghast\auth\managers\AuthManager.class
+cc\ghast\auth\utils\Configuration.class
+cc\ghast\auth\listeners\CancelledEvents.class
+cc\ghast\auth\commands\LoginCommand.class
+cc\ghast\auth\encryption\Hashing.class
+cc\ghast\auth\encryption\LogTypes.class
+cc\ghast\auth\managers\CommandManager.class
+cc\ghast\auth\encryption\PlayerData.class
+cc\ghast\auth\Auth.class
+cc\ghast\auth\managers\AuthManager$1.class
+cc\ghast\auth\listeners\JoinEvent.class
+cc\ghast\auth\commands\RegisterCommand.class
+cc\ghast\auth\managers\SessionManager.class

@@ -1,0 +1,10 @@
+name: Auth
+author: Ghast
+main: cc.ghast.auth.Auth
+version: 1.0-SNAPSHOT
+description: 'Simple auth plugin with proper hashing properties'
+commands:
+  login:
+    description: 'Login into a user'
+  register:
+    description: 'Register a user'

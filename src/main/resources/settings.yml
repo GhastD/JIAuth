@@ -1,0 +1,19 @@
+settings:
+  max-players-per-ip: 1
+
+permissions:
+  login: auth.login
+  register: auth.register
+messages:
+  invalid-permission: '&7[&cAuth&7] &cInvalid permission'
+  missing-argument: '&7[&cAuth&7] &cInvalid Arguments'
+  missing-register-password: '&7[&cAuth&7] &cInvalid Arguments: Usage: &e/register [password] [confirm password]'
+  already-registered: '&7[&cAuth&7] &cInvalid action: Already Registered'
+  different-register-password: '&7[&cAuth&7] &cThe confirm password does not match'
+  succesful-registration: '&7[&cAuth&7] &aSuccesfully registered!'
+  missing-password: '&7[&cAuth&7] &cMissing password! Usage: &e/login [password]'
+  not-registered: '&7[&cAuth&7] &cYou are not registered! Do /register [password] [confirm password]'
+  invalid-password: '&7[&cAuth&7] &cInvalid password'
+  succesful-login: '&7[&cAuth&7] &aSuccesfully Logged-in!'
+  already-loggedin: '&7[&cAuth&7] &cAlready Logged-in!'
+  kick-message: '&7[&cAuth&7] &cYou have reached the limit of accounts on this ip'
